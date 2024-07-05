@@ -1,6 +1,7 @@
 # linear-Regression-Model-for-insurance
 
 description:
+
 age: age of primary beneficiary
 
 sex: insurance contractor gender, female, male
@@ -16,4 +17,4 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 
 charges: Individual medical costs billed by health insurance
 
-source: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
+source: https://www.kaggle.com/datasets/mirichoi0218/insurance?
